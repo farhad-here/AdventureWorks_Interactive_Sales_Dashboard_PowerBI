@@ -49,7 +49,8 @@ The dashboard provides **data-driven insights** to help decision-makers monitor 
 ---
 
 ## 📷 Dashboard Preview
-> *(You can upload screenshots of your dashboard here)*
+
+<img width="2097" height="1180" alt="powerbi" src="https://github.com/user-attachments/assets/68cc8fd8-0139-4250-9366-6fd07a76acfb" />
 
 ---
 
